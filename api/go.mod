@@ -1,6 +1,6 @@
 module roniix/api
 
-go 1.24.0
+go 1.24.1
 
 require (
 	github.com/aro-wolo/goresp v1.1.0
